@@ -1,16 +1,20 @@
 ### UNIVERSIDAD DE LAS FUERZAS ARMADAS
 
-ITEGRANTES
+## Laboratorio N 3 Analisis de De Nodos
+
+#### INTEGRANTES
 
 Lagla David 
+
 Cuenca Cristhian
+
 Cedeño Iker
 
-OBJETIVO GENERAL
+#### OBJETIVO GENERAL
 
 •	Determinar mediante la técnica de análisis de nodos el voltaje de cada nodo del circuito. Y comprar los resultados con los datos teóricos usando una de las técnicas de análisis de circuitos y los datos prácticos adquiridos en la simulación en tinkerkad.
 
-OBJETIVO ESPECIFICO
+#### OBJETIVOS ESPECIFICOS
 
 •	Obtener analíticamente el valor del voltaje del circuito mediante el análisis de nodos el cual hace uso de la LCK para expresar corrientes en función de voltajes.
 
@@ -18,17 +22,17 @@ OBJETIVO ESPECIFICO
 
 •	Comprobar los conocimientos adquiridos en clase sobre el analisis de nodos, midiendo corrientes y voltajes en cada uno de los circuitos.
 
-MARCO TEORICO
+#### MARCO TEORICO
 ![WhatsApp Image 2022-12-08 at 16 04 08](https://user-images.githubusercontent.com/116814386/206621953-c736f7b3-c060-4903-b443-dd5b1216845f.jpeg)
 
 ![WhatsApp Image 2022-12-08 at 16 01 26](https://user-images.githubusercontent.com/116814386/206621848-7f0e599c-122c-41d3-8039-11661c31dfd9.jpeg)
 
-MATERIAL Y EQUIPO REQUERIDO  
+#### MATERIAL Y EQUIPO REQUERIDO  
 
 ![image](https://user-images.githubusercontent.com/116814386/206623741-6ced9d8a-8ab2-4366-b602-0e7919af486f.png)
 
 
-PROCEDIMIENTO
+#### PROCEDIMIENTO
 
 Primero implementamos el circuito de la figura en el simulador tinkercad
 
@@ -55,7 +59,7 @@ Después procedemos analizar de manera analítica cada uno de los nodos para obt
 ![image](https://user-images.githubusercontent.com/116814386/206627082-2c7da08e-e7c6-4d61-8e30-f57dca9d1ac5.png)
 
 
-DISCUSION Y ANALISIS DE RESULTADOS
+#### DISCUSION Y ANALISIS DE RESULTADOS
 
 Hemos registrado todos los resultados obetinidos tanto analitica ,experimental y los valores obtenidos del simulador para comparales y analizarlos.
 
@@ -65,17 +69,17 @@ Cómo se puede ver en la tabla 1 los resultados obtenidos analíticamente son pr
 
 En contraposición a los resultados obtenidos analíticamente podemos observar que los resultados obtenidos de manera experimental se alejan un poco más de los resultados obtenidos por el simulador esto es porque ningún circuito es ideal es decir que no podemos obtener ni los voltajes ni las resistencias de manera exacta por lo que siempre habrá un porcentaje de error en los circuitos realizados de manera experimental sin embargo se puede apreciar qué los valores obtenidos se asemejan mucho a los resultados obtenidos con el simulador con lo que tenían podemos afirmar que el análisis de nodos no sirve tanto de manera teórica como de manera experimental para el análisis de circuitos eléctricos
 
-CONCLUSIONES
+#### CONCLUSIONES
 
 Concluimos que es posible verificar y comprobar la ley de corriente de Kirchhoff para circuitos resistivos tanto teóricamente como en la práctica, para comprobar la veracidad de los cálculos nos ha sido de gran utilidad el uso del simulador de Tinkercad.
 
-La técnica de análisis de nodos reduce la complejidad del circuito ya que al identificar los nodos resulta sencillo obtener el valor de corriente de los que tienen una fuente de voltaje conectada al nodo de referencia., sin erbago también debemos tener precaución al escojer los nodos con los cuales se debe trabajar.
+La técnica de análisis de nodos reduce la complejidad del circuito ya que al identificar los nodos resulta sencillo obtener el valor de corriente de los que tienen una fuente de voltaje conectada al nodo de referencia., sin embago también debemos tener precaución al escojer los nodos con los cuales se debe trabajar.
 
-VIDEO
+#### VIDEO
 
 https://youtu.be/1hv2Lchnp-M
 
-BIBLIOGRAFIA
+#### BIBLIOGRAFIA
 
 McAllister, W. (19 de abril de 2018). Academia Khan. Obtenido de El método del voltaje en los nodos: 
 
