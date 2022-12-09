@@ -73,5 +73,17 @@ La técnica de análisis de nodos reduce la complejidad del circuito ya que al i
 
 VIDEO
 
+https://youtu.be/1hv2Lchnp-M
+
 BIBLIOGRAFIA
+
+McAllister, W. (19 de abril de 2018). Academia Khan. Obtenido de El método del voltaje en los nodos: 
+
+https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage- método
+
+
+
+eduMedia. (2021). Leyes de Kirchhoff. Obtenido de: 
+
+https://www.edumedia-sciences.com/es/media/510-leyes-de-kirchhoff
 
